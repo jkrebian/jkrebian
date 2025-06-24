@@ -1,3 +1,5 @@
+[![](https://github-link-card.s3.ap-northeast-1.amazonaws.com/jkrebian/blog.png)](https://github.com/jkrebian/blog)
+
 ## [My Github Profile](https://github.com/jkrebian/jkrebian.git)
 
 ### 👋 Hi Friends 👋
