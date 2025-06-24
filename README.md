@@ -1,16 +1,17 @@
-## Hi there 👋
+## [My Github Profile](https://github.com/jkrebian/jkrebian.git)
 
-<!--
-**jkrebian/jkrebian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi Friends 👋
 
-Here are some ideas to get you started:
+I am **jkrebian/jkrebian**, a ✨ _Github profile_ ✨ repository of `Me = {Jack}-{Krebian}`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here is My some-info
+
+- 🔭 I’m currently working on ... `JKCME Foundation`
+- 🌱 I’m currently learning ... ` Everythings`
+- 👯 I’m looking to collaborate on ... `My Foundation`
+- 🤔 I’m looking for help with ... `Non-profit ​projects`
+- 💬 Ask me about ... `Something I knew`
+- 📫 How to reach me: ... `mailto:jkrebian[at]github[dot]com`
+- 😄 Pronouns: ... `{Jack}-{Krebian}`
+- ⚡ Fun fact: ... `My name already`
+---
