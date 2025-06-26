@@ -8,7 +8,7 @@ I am **jkrebian/jkrebian**, a ✨ _Github profile_ ✨ repository of `Me = {Jack
 
 Here is My some-info
 
-- 🔭 I’m currently working on ... `JKCME Foundation`
+- 🔭 I’m currently working on ... `JKACME Foundation`
 - 🌱 I’m currently learning ... ` Everythings`
 - 👯 I’m looking to collaborate on ... `My Foundation`
 - 🤔 I’m looking for help with ... `Non-profit ​projects`
