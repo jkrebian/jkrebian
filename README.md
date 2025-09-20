@@ -1,6 +1,6 @@
 # Nuxt Starter
 
-![Netlify + Nuxt Starter Preview](nuxt-starter-preview.jpg)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/639aae70-13f6-44ba-b5e4-59ed6db5e59f/deploy-status)](https://app.netlify.com/projects/jkrenuxt/deploys)
 
 ---
 
